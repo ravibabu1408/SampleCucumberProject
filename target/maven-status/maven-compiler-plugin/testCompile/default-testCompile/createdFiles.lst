@@ -1,0 +1,7 @@
+com\lgcc\stepDefs\Base.class
+com\lgcc\utils\utilities\ReadConfig.class
+com\lgcc\stepDefs\StepDefs.class
+com\lgcc\stepDefs\Hooks.class
+com\lgcc\PageObjects\RediffMailPage.class
+com\lgcc\util\runnerClasses\TestsRunner.class
+com\lgcc\PageObjects\RediffLoginPage.class
